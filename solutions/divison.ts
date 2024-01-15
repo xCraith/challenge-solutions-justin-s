@@ -25,13 +25,13 @@ function divideNumber() {
       }
 
       const solution = Math.floor(input / input2);
-      const remainder = input % input2;
+      const rest = input % input2;
 
       console.log(
         "Ergebnis der ganzzahligen Division:",
         solution,
         "\nRest:",
-        remainder
+        rest
       );
       rl.close();
     });
