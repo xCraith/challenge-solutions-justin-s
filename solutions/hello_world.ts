@@ -1,1 +1,1 @@
-console.log("Hallo bei Landau Media")
+console.log("Hallo bei Landau Media");
